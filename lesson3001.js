@@ -37,9 +37,9 @@
 
 //   return res;
 // };
-const testArray = [10, 2, 30, 4, 5, 6, 70, 8, 9, 0];
-for (let key in testArray) {
-  if (testArray[key] > 8) {
-    console.log(`testArray[${key}]: `, testArray[key]);
-  }
-}
+// const testArray = [10, 2, 30, 4, 5, 6, 70, 8, 9, 0];
+// for (let key in testArray) {
+//   if (testArray[key] > 8) {
+//     console.log(`testArray[${key}]: `, testArray[key]);
+//   }
+// }
